@@ -14,7 +14,7 @@
 
 ## 👨‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/main/svg/github-user-contribution-color.svg" alt="GitHub Snake Animation" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer Emoji" />
 
 - 🔭 I’m currently working on advanced **FiveM Servers** and optimizing Anti-Cheat systems.
 - 🎨 I also have a strong background in **Graphic Design**, producing custom visual assets and wide-format backgrounds.
@@ -57,5 +57,5 @@
 
 ## 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-sv&show_icons=true&theme=tokyonight&hide_border=true" alt="AliSv's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-sv&theme=tokyonight&hide_border=true" alt="AliSv's GitHub Streak" />
 </div>
