@@ -57,5 +57,5 @@
 
 ## 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-sv&theme=tokyonight&hide_border=true" alt="AliSv's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ali-sv&theme=dark&hide_border=true&ring=3dd68c&fire=3dd68c&currStreakLabel=3dd68c&sideLabels=8fb59f&dates=6b8f7c&background=0b1210" alt="AliSv GitHub Streak" />
 </div>
